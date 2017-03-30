@@ -1,0 +1,132 @@
+
+/* Class = "IBUIButton"; normalTitle = "Aceptar"; ObjectID = "05l-Ra-9Pn"; */
+"05l-Ra-9Pn.normalTitle" = "Accept";
+
+/* Class = "IBUILabel"; text = "Nombre de la persona que lo invito"; ObjectID = "0KT-VM-x2d"; */
+"0KT-VM-x2d.text" = "Name of the person who invited you";
+
+/* Class = "IBUILabel"; text = "Finales"; ObjectID = "35P-Nw-lx6"; */
+"35P-Nw-lx6.text" = "Finals";
+
+/* Class = "IBUILabel"; text = "% Segundo Puesto"; ObjectID = "3O6-an-vFv"; */
+"3O6-an-vFv.text" = "Second place";
+
+/* Class = "IBUILabel"; text = "Octavos"; ObjectID = "3nE-fU-iGs"; */
+"3nE-fU-iGs.text" = "Round of 16";
+
+/* Class = "IBUILabel"; text = "% Tercer Puesto"; ObjectID = "6Dn-tL-YOa"; */
+"6Dn-tL-YOa.text" = "Third Place";
+
+/* Class = "IBUILabel"; text = "Evento"; ObjectID = "7Nh-wF-aFK"; */
+"7Nh-wF-aFK.text" = "Event";
+
+/* Class = "IBUILabel"; text = "Email de la persona que lo invito"; ObjectID = "7v4-Nb-Sqw"; */
+"7v4-Nb-Sqw.text" = "Email of the person who invited you.";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "88j-mE-XTX"; */
+"88j-mE-XTX.text" = "Label";
+
+/* Class = "IBUILabel"; text = "Clave"; ObjectID = "8zo-iR-brf"; */
+"8zo-iR-brf.text" = "Password";
+
+/* Class = "IBUIButton"; normalTitle = "Registrarse"; ObjectID = "Apr-LP-h4y"; */
+"Apr-LP-h4y.normalTitle" = "Register";
+
+/* Class = "IBUILabel"; text = "Semi Finales"; ObjectID = "BOe-cM-mrU"; */
+"BOe-cM-mrU.text" = "Semi Finals";
+
+/* Class = "IBUILabel"; text = "% Primer puesto"; ObjectID = "FId-VN-sH0"; */
+"FId-VN-sH0.text" = "First Place";
+
+/* Class = "IBUILabel"; text = "Puntos x 1/2 marcador "; ObjectID = "Gs4-gd-eSb"; */
+"Gs4-gd-eSb.text" = "Points 1/2 score";
+
+/* Class = "IBUITabBarItem"; title = "Semi-final"; ObjectID = "HIV-Q4-S3c"; */
+"HIV-Q4-S3c.title" = "Semi-final";
+
+/* Class = "IBUITabBarItem"; title = "Octavos"; ObjectID = "INi-FY-5z5"; */
+"INi-FY-5z5.title" = "Round of 16";
+
+/* Class = "IBUIButton"; normalTitle = "Rechazar"; ObjectID = "Kqd-41-9wg"; */
+"Kqd-41-9wg.normalTitle" = "Reject";
+
+/* Class = "IBUILabel"; text = "Nombre"; ObjectID = "L5x-oz-jqw"; */
+"L5x-oz-jqw.text" = "Name";
+
+/* Class = "IBUILabel"; text = "Cuartos"; ObjectID = "N1H-nr-sXU"; */
+"N1H-nr-sXU.text" = "Quarter final";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "NSY-HW-XK5"; */
+"NSY-HW-XK5.text" = "Label";
+
+/* Class = "IBUIButton"; normalTitle = "Login"; ObjectID = "NmR-AW-dnw"; */
+"NmR-AW-dnw.normalTitle" = "Login";
+
+/* Class = "IBUIButton"; normalTitle = "Button"; ObjectID = "OyO-CK-ZGz"; */
+"OyO-CK-ZGz.normalTitle" = "Button";
+
+/* Class = "IBUITabBarItem"; title = "Final"; ObjectID = "QiX-od-0BG"; */
+"QiX-od-0BG.title" = "Final";
+
+/* Class = "IBUILabel"; text = "email"; ObjectID = "TLt-3g-bgh"; */
+"TLt-3g-bgh.text" = "email";
+
+/* Class = "IBUILabel"; text = "Equipo"; ObjectID = "TbW-ou-c5J"; */
+"TbW-ou-c5J.text" = "Team";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "Zu7-J1-tLD"; */
+"Zu7-J1-tLD.text" = "Label";
+
+/* Class = "IBUIButton"; normalTitle = "Crear"; ObjectID = "aJ2-SU-DoB"; */
+"aJ2-SU-DoB.normalTitle" = "Create";
+
+/* Class = "IBUILabel"; text = "Puntos x ganador"; ObjectID = "bIL-wS-jzM"; */
+"bIL-wS-jzM.text" = "Points for winner";
+
+/* Class = "IBUIButton"; normalTitle = "Registrarse"; ObjectID = "cbg-dU-ZnR"; */
+"cbg-dU-ZnR.normalTitle" = "Register";
+
+/* Class = "IBUITabBarItem"; title = "Cuartos"; ObjectID = "fyP-c8-VHq"; */
+"fyP-c8-VHq.title" = "Quarter final";
+
+/* Class = "IBUITabBarItem"; title = "Invitaciones"; ObjectID = "hZz-bq-2ee"; */
+"hZz-bq-2ee.title" = "Invitations";
+
+/* Class = "IBUILabel"; text = "Cuota $"; ObjectID = "iEf-MX-A7x"; */
+"iEf-MX-A7x.text" = "Fee $";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "jvC-kI-HVs"; */
+"jvC-kI-HVs.text" = "Label";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "lqG-pw-1ev"; */
+"lqG-pw-1ev.text" = "Label";
+
+/* Class = "IBUILabel"; text = "Clave"; ObjectID = "m36-Jl-z0d"; */
+"m36-Jl-z0d.text" = "Password";
+
+/* Class = "IBUITabBarItem"; title = "Invitar"; ObjectID = "nGo-M7-lpR"; */
+"nGo-M7-lpR.title" = "Invite";
+
+/* Class = "IBUILabel"; text = "Confirmar clave"; ObjectID = "o1K-H2-BQD"; */
+"o1K-H2-BQD.text" = "Confirm password";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "qha-PU-qX6"; */
+"qha-PU-qX6.text" = "Label";
+
+/* Class = "IBUITabBarItem"; title = "Grupos"; ObjectID = "r9z-1t-HC8"; */
+"r9z-1t-HC8.title" = "Groups";
+
+/* Class = "IBUILabel"; text = "Nombre"; ObjectID = "rPw-Ad-pK6"; */
+"rPw-Ad-pK6.text" = "Name";
+
+/* Class = "IBUILabel"; text = "Fase Grupos"; ObjectID = "uWP-H1-Xoa"; */
+"uWP-H1-Xoa.text" = "Group stage";
+
+/* Class = "IBUILabel"; text = "Puntos x marcador"; ObjectID = "wG4-7B-R1l"; */
+"wG4-7B-R1l.text" = "Points for whole score";
+
+/* Class = "IBUIButton"; normalTitle = "Invitar"; ObjectID = "wWB-mj-btN"; */
+"wWB-mj-btN.normalTitle" = "Invite";
+
+/* Class = "IBUILabel"; text = "Usuario"; ObjectID = "ytP-b2-Guq"; */
+"ytP-b2-Guq.text" = "User";

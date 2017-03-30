@@ -1,0 +1,164 @@
+{
+  "Teams": [
+    {
+      "Name": "BRAZIL",
+      "Image": "brazil.png",
+      "Id": "1"
+    },
+    {
+      "Name": "CROACIA",
+      "Image": "croacia.png",
+      "Id": "2"
+    },
+    {
+      "Name": "MEXICO",
+      "Image": "mexico.png",
+      "Id": "3"
+    },
+    {
+      "Name": "CAMERUN",
+      "Image": "camerun",
+      "Id": "4"
+    },
+    {
+      "Name": "ESPA\u00d1A",
+      "Image": "espana.png",
+      "Id": "5"
+    },
+    {
+      "Name": "HOLANDA",
+      "Image": "holanda.png",
+      "Id": "6"
+    },
+    {
+      "Name": "CHILE",
+      "Image": "chile.png",
+      "Id": "7"
+    },
+    {
+      "Name": "AUSTRALIA",
+      "Image": "australia.png",
+      "Id": "8"
+    },
+    {
+      "Name": "COLOMBIA",
+      "Image": "colombia.png",
+      "Id": "9"
+    },
+    {
+      "Name": "GRECIA",
+      "Image": "grecia.png",
+      "Id": "10"
+    },
+    {
+      "Name": "C. DE MARFIL",
+      "Image": "costademarfil.png",
+      "Id": "11"
+    },
+    {
+      "Name": "JAPON",
+      "Image": "japon.png",
+      "Id": "12"
+    },
+    {
+      "Name": "URUGUAY",
+      "Image": "uruguay.png",
+      "Id": "13"
+    },
+    {
+      "Name": "COSTA RICA",
+      "Image": "costarica.png",
+      "Id": "14"
+    },
+    {
+      "Name": "INGLATERRA",
+      "Image": "inglaterra.png",
+      "Id": "15"
+    },
+    {
+      "Name": "ITALIA",
+      "Image": "italia.png",
+      "Id": "16"
+    },
+    {
+      "Name": "SUIZA",
+      "Image": "suiza.png",
+      "Id": "17"
+    },
+    {
+      "Name": "ECUADOR",
+      "Image": "ecuador.png",
+      "Id": "18"
+    },
+    {
+      "Name": "FRANCIA",
+      "Image": "francia.png",
+      "Id": "19"
+    },
+    {
+      "Name": "HONDURAS",
+      "Image": "honduras.png",
+      "Id": "20"
+    },
+    {
+      "Name": "ARGENTINA",
+      "Image": "argentina.png",
+      "Id": "21"
+    },
+    {
+      "Name": "B. HERZEGOVINA",
+      "Image": "bosnia.png",
+      "Id": "22"
+    },
+    {
+      "Name": "IRAN",
+      "Image": "iran.png",
+      "Id": "23"
+    },
+    {
+      "Name": "NIGERIA",
+      "Image": "nigeria.png",
+      "Id": "24"
+    },
+    {
+      "Name": "ALEMANIA",
+      "Image": "alemania.png",
+      "Id": "25"
+    },
+    {
+      "Name": "PORTUGAL",
+      "Image": "portugal.png",
+      "Id": "26"
+    },
+    {
+      "Name": "GHANA",
+      "Image": "ghana.png",
+      "Id": "27"
+    },
+    {
+      "Name": "ESTADOS UNIDOS",
+      "Image": "estadosunidos.png",
+      "Id": "28"
+    },
+    {
+      "Name": "BELGICA",
+      "Image": "belgica.png",
+      "Id": "29"
+    },
+    {
+      "Name": "ALGERIA",
+      "Image": "algeria.png",
+      "Id": "30"
+    },
+    {
+      "Name": "RUSIA",
+      "Image": "rusia.png",
+      "Id": "31"
+    },
+    {
+      "Name": "KOREA DEL SUR",
+      "Image": "korea.png",
+      "Id": "32"
+    }
+  ]
+}
